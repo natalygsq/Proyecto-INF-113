@@ -1,0 +1,30 @@
+body{
+    background-color: #c1efcb;
+}
+*{
+    margin: 5;
+}
+
+header{
+    height: 50px;
+    width: 100%;
+    background-color: #1a82b7;
+    text-align: center;
+    color: white;
+}
+
+
+section{
+    width: 100%;
+    height: 550px;
+    background-color: #c1efcb;
+   
+
+}
+footer{
+    width: 100%;
+    height: 375px;
+    background-color:#1a82b7;
+    float:center;
+
+}
